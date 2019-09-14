@@ -10,7 +10,7 @@
 
 ![](http://www.radiozero.cl/static/2016/10/britney.jpg)
 
-- Map is mainly used for fast searching and looking up data.
+- Usamos _Map_ principalmente para búsquedas rápidas (de valores asociados)
 
 ## Ventajas de usar ES6 Map sobre Object
 
