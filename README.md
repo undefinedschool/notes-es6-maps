@@ -18,8 +18,11 @@
 - **En un _Map_ puedo usar cualquier tipo de valor como clave** (incluyendo objetos y funciones)
 - En los objetos, el orden de las propiedades/claves no está garantizado (depende de la implementación del engine). Sólo porque agreguemos pares _clave-valor_ en cierto orden, no implica que van a permanecer en ese orden cuando las iteremos
 - **En un _Map_, el orden en el que agregamos las claves se mantiene**
+- Podemos obtener el tamaño de un _Map_ fácilmente, usando la propiedad `size`
+- Un _Map_ puede ser iterado directamente
 - **_Map_ nos provee de ciertos métodos para, entre otras cosas, poder iterar las claves** (ej: `forEach`)
 - Pueden ver otras diferencias con más detalle [acá](https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373)
+- Un _Map_ puede tener ventajas de _performance_ en casos donde agreguemos/saquemos pares _clave-valor_ con frecuencia
 
 ## Uso
 
